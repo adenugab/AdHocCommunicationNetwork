@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Vertex(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Vertex\r\n\ @param\ \ \ name\ \ \ \ the\ name\ of\ the\ vertex\r\n
+comment1.params=rename
+comment1.target=void\ newName(java.lang.String)
+comment1.text=\r\n\ Renames\ the\ vertex\ with\ a\ new\ name.\ \r\n\ @param\ \ \ rename\ the\ new\ name\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ vertex\ \r\n\ @return\ \ name\ of\ vertex\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLabel()
+comment3.text=\r\n\ Returns\ the\ label\ of\ the\ vertex\ \r\n\ @return\ \ label\ of\ vertex\r\n
+comment4.params=newlabel
+comment4.target=void\ setLabel(java.lang.String)
+comment4.text=\r\n\ Returns\ the\ name\ of\ the\ vertex\ \r\n\ @param\ \ \ newlabel\ name\ this\ vertex\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getAdj()
+comment5.text=\r\n\ Returns\ the\ List\ of\ Adjacent\ Egdes\ of\ a\ Vertex.\ \r\n\ @return\ \ the\ ArrayList\ of\ edges\ \r\n
+numComments=6
